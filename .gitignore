@@ -1,0 +1,4 @@
+bright_objects_sequence.npz
+bright_objects_4096x4096_10targets.npz
+__pycache__
+bright_tracker_env
